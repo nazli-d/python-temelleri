@@ -1,4 +1,6 @@
 # PYTHON TUTORIAL
+-------DÜZENLENECEK--------------
+
 #-1 girilene kadar girilen sayıları toplayan program
 2- dizinin içindekileri döndür 0.eleman flan yazsın
 3-santigrat fahrenayt
